@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Package/VegetationSpawner/_Demo/VegetationSpawnerExample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
